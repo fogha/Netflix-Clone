@@ -1,68 +1,70 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Uber Clone
 
-## Available Scripts
+An netflix ui clone
+## Tech Stack
 
-In the project directory, you can run:
+**Client:** ReactJs
 
-### `yarn start`
+**Server:** Movies api.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Screenshots
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<div style="display: flex; ">
 
-### `yarn test`
+  <img src="./src/assets/Screen Shot 2022-04-13 at 8.34.16 AM.png" width="200" />
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+</div>
 
-### `yarn build`
+## Run Locally
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Clone the project
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+```bash
+  git clone https://github.com/Fogha/netflix-clone.git
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Go to the project directory
 
-### `yarn eject`
+```bash
+  cd Netflix-Clone
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Install dependencies
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+  npm install
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Start react app
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```bash
+  npm start
+```
 
-## Learn More
+## Authors
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [@Armand Collins](https://www.github.com/Fogha)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🚀 About Me
 
-### Code Splitting
+I'm a full stack Javascript Developer. I Love to build beautiful and scalable web apps.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## 🔗 Links
 
-### Analyzing the Bundle Size
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armand-collins-6974b3166)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/locrae_)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+## Badges
 
-### Making a Progressive Web App
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+## Roadmap
 
-### Advanced Configuration
+- Display Movies
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+- Navigate through movie categories
 
-### Deployment
+- Play trailers
+## Feedback
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+If you have any feedback, please reach out to me at foghaarmand@gmail.com
